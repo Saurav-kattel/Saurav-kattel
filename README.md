@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @Saurav-kattel
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m intrested in working together to further expand my knowledgey
+-  skills:
+-    React(advance) Nextjs(advance) js(advance) ts(intermediate) golang(beginner), python(beginner)
+- In conclusion intermediate level full stack developer
 - 📫 How to reach me kattelsaurav69@gmail.com
 
 <!---
