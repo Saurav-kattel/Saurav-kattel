@@ -24,7 +24,7 @@ Passionate full stack developer with a knack for building scalable web applicati
 
 #### 📈 GitHub Stats
 
-![Saurav Kattel's GitHub stats](https://github-readme-stats.vercel.app/api?username=sauravkattel&show_icons=true&theme=radical)
+![Saurav Kattel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saurav-kattel&show_icons=true&theme=radical)
 
 ---
 
