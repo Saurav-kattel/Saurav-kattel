@@ -16,7 +16,7 @@ Passionate full stack developer with a knack for building scalable web applicati
 
 - **Backend:** Golang, Node.js, PostgreSQL, MongoDB
 - **Frontend:** React, Next.js, HTML, CSS, JavaScript (JS), TypeScript (TS)
-- **Other Technologies:** Docker, Kubernetes, GraphQL, RESTful APIs
+- **Other Technologies:** Docker,  RESTful APIs
 - **Tools & Platforms:** Git, GitHub, VS Code, Linux
 
 ---
